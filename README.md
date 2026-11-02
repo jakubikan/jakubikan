@@ -2,7 +2,7 @@
 
 I build internal developer platforms and agentic developer tooling.
 
-At BMW I designed the self-service layer of our Kubernetes and AWS platform, which more than 2,000 developers use. Product teams onboard through a validated pull request that merges itself. My work code is not public, so this profile shows my personal and open-source side.
+In my day job I designed the self-service layer of an internal Kubernetes and AWS platform that more than 2,000 developers use. Product teams onboard through a validated pull request that merges itself. That code is not public, so this profile shows my personal and open-source side.
 
 **Currently:** my own agent system built with Pydantic AI and MCP, LLM evals that replay real runs against several models, and a homelab Kubernetes platform with OpenTelemetry tracing, Jaeger and Prometheus.
 
