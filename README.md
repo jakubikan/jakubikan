@@ -13,7 +13,6 @@ In my day job I designed the self-service layer of an internal Kubernetes and AW
 Small fixes and features:
 
 - [langchain-ai/langchain#25658](https://github.com/langchain-ai/langchain/pull/25658): configurable history key for the DynamoDB chat message history (2024)
-- [freqtrade/freqtrade#10671](https://github.com/freqtrade/freqtrade/pull/10671): CoinGecko category filter for the market-cap pairlist (2024)
 - [pascalgn/automerge-action#238](https://github.com/pascalgn/automerge-action/pull/238): use `GITHUB_SERVER_URL`, so the action also works outside github.com (2024)
 - [terraform-aws-modules/terraform-aws-appsync#18](https://github.com/terraform-aws-modules/terraform-aws-appsync/pull/18): IAM permission boundary for the roles the module creates (2021)
 - [storybookjs/storybook#7078](https://github.com/storybookjs/storybook/pull/7078): addon-contexts, contexts without an icon (2019)
